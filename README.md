@@ -1,1 +1,3 @@
 # Shopping-Cart-PHP
+
+A simple yet fully functional shopping cart system built while learning PHP on SkillShare. This project helped me understand core PHP concepts such as sessions, form handling, dynamic product rendering, and basic CRUD operations. It includes features like adding items to the cart, removing products, and calculating totals. I also practiced structuring PHP files, organizing logic, and improving code readability. This project strengthened my foundation in PHP, MySQL, and front‑end integration, and marked an important step in my journey toward becoming a full‑stack developer.
